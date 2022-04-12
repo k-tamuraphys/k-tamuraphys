@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Web site: https://kensuke-tamura.jp
+- Gist(Public): https://gist.github.com/k-tamuraphys
 
 <!--
 **k-tamuraphys/k-tamuraphys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
